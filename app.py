@@ -7,7 +7,9 @@ JOBS = [
   {'id': 3, 'title': 'Software Engineer', 'location': 'Koforidua', 'salary': 'GHS90,000'},
   {'id': 4, 'title': 'Network Engineer', 'location': 'Accra', 'salary': 'GHS90,000'},
   {'id': 5, 'title': 'AI Developer', 'location': 'Kumasi', 'salary': 'GHS90,000'},
-]
+  {'id': 6, 'title': 'ML Developer', 'location': 'Kusi', 'salary': 'GHS980,000'},
+  ]
+
   
 @app.route('/')
 def flex_dev():
